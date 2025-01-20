@@ -5,7 +5,7 @@
 
 ## 📖 Overview
 
-Life Balance Plus is a cross-platform application built using **Flutter** that empowers users to track, organize, and optimize their daily lives. From task management to personal wellness tracking, Life Balance Plus is designed to help users stay on top of their goals and maintain a healthy work-life balance.
+LifeBalance+ is a cross-platform application built using **Flutter** that empowers users to track, organize, and optimize their daily lives. From task management to personal wellness tracking, LifeBalance+ is designed to help users stay on top of their goals and maintain a healthy work-life balance.
 
 ## 🌟 Features
 
@@ -108,4 +108,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-*Life Balance Plus* - Helping you live a more organized and fulfilling life.
+*LifeBalance+* - Helping you live a more organized and fulfilling life.
