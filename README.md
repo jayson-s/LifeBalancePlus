@@ -1,5 +1,5 @@
 
-# Life Balance Plus
+# LifeBalance+
 
 *Your ultimate companion for achieving balance and productivity in life.*
 
